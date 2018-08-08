@@ -1,0 +1,20 @@
+C:\Users\esmith\Desktop\FreightClass\FreightClass\bin\Debug\FreightClass.exe.config
+C:\Users\esmith\Desktop\FreightClass\FreightClass\bin\Debug\FreightClass.exe
+C:\Users\esmith\Desktop\FreightClass\FreightClass\bin\Debug\FreightClass.pdb
+C:\Users\esmith\Desktop\FreightClass\FreightClass\obj\Debug\FreightClassCalculator.csprojResolveAssemblyReference.cache
+C:\Users\esmith\Desktop\FreightClass\FreightClass\obj\Debug\FreightClass.Form1.resources
+C:\Users\esmith\Desktop\FreightClass\FreightClass\obj\Debug\FreightClass.Properties.Resources.resources
+C:\Users\esmith\Desktop\FreightClass\FreightClass\obj\Debug\FreightClassCalculator.csproj.GenerateResource.Cache
+C:\Users\esmith\Desktop\FreightClass\FreightClass\obj\Debug\FreightClassCalculator.csproj.CoreCompileInputs.cache
+C:\Users\esmith\Desktop\FreightClass\FreightClass\obj\Debug\FreightClass.exe
+C:\Users\esmith\Desktop\FreightClass\FreightClass\obj\Debug\FreightClass.pdb
+C:\Users\esmith\Desktop\Freight Class Calculator\FreightClass\FreightClass\bin\Debug\FreightClass.exe.config
+C:\Users\esmith\Desktop\Freight Class Calculator\FreightClass\FreightClass\bin\Debug\FreightClass.exe
+C:\Users\esmith\Desktop\Freight Class Calculator\FreightClass\FreightClass\bin\Debug\FreightClass.pdb
+C:\Users\esmith\Desktop\Freight Class Calculator\FreightClass\FreightClass\obj\Debug\FreightClassCalculator.csprojResolveAssemblyReference.cache
+C:\Users\esmith\Desktop\Freight Class Calculator\FreightClass\FreightClass\obj\Debug\FreightClass.Form1.resources
+C:\Users\esmith\Desktop\Freight Class Calculator\FreightClass\FreightClass\obj\Debug\FreightClass.Properties.Resources.resources
+C:\Users\esmith\Desktop\Freight Class Calculator\FreightClass\FreightClass\obj\Debug\FreightClassCalculator.csproj.GenerateResource.Cache
+C:\Users\esmith\Desktop\Freight Class Calculator\FreightClass\FreightClass\obj\Debug\FreightClassCalculator.csproj.CoreCompileInputs.cache
+C:\Users\esmith\Desktop\Freight Class Calculator\FreightClass\FreightClass\obj\Debug\FreightClass.exe
+C:\Users\esmith\Desktop\Freight Class Calculator\FreightClass\FreightClass\obj\Debug\FreightClass.pdb
