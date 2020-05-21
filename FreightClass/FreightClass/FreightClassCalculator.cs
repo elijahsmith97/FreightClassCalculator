@@ -14,6 +14,7 @@ using System.Threading.Tasks;
 
 public class FreightClassCalc
 {
+    //global variables initialization
     int INCHES_TO_FEET = 1728;
     double h;
     double w;
@@ -39,6 +40,7 @@ public class FreightClassCalc
         return System.Math.Round(density, 2);
     }
 
+    //public accessor method to obtain the density of a shipment
     public double getDensity(List<DimensionClass> list)
     {
         var shipmentDimensions = list.Sum(x => x.dimension);
@@ -48,6 +50,7 @@ public class FreightClassCalc
         return System.Math.Round(density, 2);
     }
     
+    //public accessor that decides which freight class the shipment should be depending on the density of the shipment
     public double getFreightClass(double density)
     {
         if (density >= 50)
